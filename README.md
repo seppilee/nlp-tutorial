@@ -12,7 +12,7 @@
 #### 1. Basic Embedding Model
 
 - 1-1. [NNLM(Neural Network Language Model)](1-1.NNLM) - **Predict Next Word**
-  - 설명 -
+  - 설명 - https://github.com/seppilee/nlp-tutorial/blob/main/NNLM.md
   - Colab - 
   - Paper -  [A Neural Probabilistic Language Model(2003)](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
    
