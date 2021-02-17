@@ -1,6 +1,6 @@
 ## nlp-tutorial
 
-<p align="center"> <img width="100" https://pytorchnlp.readthedocs.io/en/latest/_static/logo.svg /></p>
+<p align="center"> <img width="200" src="https://pytorchnlp.readthedocs.io/en/latest/_static/logo.svg" /></p>
 
 
 파이토치을 이용한 자연어처리 실습 튜토리얼입니다. <b>
