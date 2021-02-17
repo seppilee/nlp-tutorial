@@ -3,8 +3,8 @@
 <p align="center"> <img width="200" src="https://pytorchnlp.readthedocs.io/en/latest/_static/logo.svg" /></p>
 
 
-파이토치을 이용한 자연어처리 실습 튜토리얼입니다. <b>
-모든 모델을 짧은 코드로 컨셉을 이해하기 위해 알기 쉽게 작성되었습니다. 
+파이토치를 이용한 자연어처리 실습 튜토리얼입니다. <b>
+모든 모델은 짧은 코드로 컨셉을 이해하기 위해 알기 쉽게 작성되었습니다. 
 
 ##1 학습 과정
 
