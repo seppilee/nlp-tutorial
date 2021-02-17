@@ -12,8 +12,10 @@
 #### 1. Basic Embedding Model
 
 - 1-1. [NNLM(Neural Network Language Model)](1-1.NNLM) - **Predict Next Word**
+  - 설명 -
+  - Colab - 
   - Paper -  [A Neural Probabilistic Language Model(2003)](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
-  - Colab - [NNLM.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-1.NNLM/NNLM.ipynb)
+   
 - 1-2. [Word2Vec(Skip-gram)](1-2.Word2Vec) - **Embedding Words and Show Graph**
   - Paper - [Distributed Representations of Words and Phrases
     and their Compositionality(2013)](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
@@ -59,7 +61,7 @@
 
 
 
-#### 5. Model based on Transformer
+#### 5. 트랜스포머 기반의 언어 모델
 
 - 5-1.  [The Transformer](5-1.Transformer) - **Translate**
   - Paper - [Attention Is All You Need(2017)](https://arxiv.org/abs/1706.03762)
@@ -69,14 +71,8 @@
   - Colab - [BERT.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT.ipynb)
 
 
-
 ## Dependencies
 
 - Python 3.5+
 - Pytorch 1.0.0+
 
-
-
-## Author
-
-- 
