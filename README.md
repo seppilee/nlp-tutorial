@@ -1,6 +1,6 @@
 ## nlp-tutorial
 
-<p align="center"> <img width="100" src="https://media-thumbs.golden.com/OLqzmrmwAzY1P7Sl29k2T9WjJdM=/200x200/smart/golden-storage-production.s3.amazonaws.com/topic_images/e08914afa10a4179893eeb07cb5e4713.png" /> <img width="200" src="https://ichi.pro/assets/images/max/724/1*jF0godKvSrD7yZ7D7_SdKw.png" /></p>
+<p align="center"> <img width="100" src="https://media-thumbs.golden.com/OLqzmrmwAzY1P7Sl29k2T9WjJdM=/200x200/smart/golden-storage-production.s3.amazonaws.com/topic_images/e08914afa10a4179893eeb07cb5e4713.png" /> <img width="100" src="https://mblogthumb-phinf.pstatic.net/MjAxOTAxMzBfMTk2/MDAxNTQ4Nzg2MDQ5NDkx.vODXb0pzupjAJ0dpoiCnBjim7gX0wKLkDvS3FEkeqkQg.xnUFOvB8zZ_JeAjealJoRmtlsIKqObW6O8gtaoxFgFcg.PNG.qbxlvnf11/natural_language_processing_blue_346440.png?type=w800" /></p>
 
 
 파이토치을 이용한 자연어처리 실습 튜토리얼입니다. <b>
