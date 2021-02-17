@@ -9,7 +9,7 @@
 ##1 학습 과정
 
 
-#### 1. 단어수준의 임베
+#### 1. 단어수준의 임베딩 모델
 
 - 1-1. [NNLM(Neural Network Language Model)](1-1.NNLM) - **Predict Next Word**
   - 설명 - https://github.com/seppilee/nlp-tutorial/blob/main/NNLM.md
