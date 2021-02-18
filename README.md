@@ -6,25 +6,26 @@
 파이토치를 이용한 자연어처리 실습 튜토리얼입니다. <br>
 모든 모델은 짧은 코드로 컨셉을 이해하기 위해 알기 쉽게 작성되었습니다. 
 
-##1 학습 과정
 
 #### 1. NLP 전처리
 
 - Colab - [형태소분석](https://colab.research.google.com/drive/15L7szv7yqYmWT0e2rnhNhwkETh4gy6QC#scrollTo=7Tvsl2qSIxSo)
 
 
-#### 1. 단어수준의 임베딩 모델
+#### 2. 단어수준의 임베딩 모델
 
-- 1-1. [NNLM(Neural Network Language Model)](1-1.NNLM) - **Predict Next Word**
-  - 설명 - https://github.com/seppilee/nlp-tutorial/blob/main/NNLM.md
+- 2-1. [NNLM(Neural Network Language Model)](1-1.NNLM) - **Predict Next Word**
+  - 요약 - [NNLM](https://github.com/seppilee/nlp-tutorial/blob/main/NNLM.md)
   - Colab - 
   - Paper -  [A Neural Probabilistic Language Model(2003)](http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf)
    
-- 1-2. [Word2Vec(Skip-gram)](1-2.Word2Vec) - **Embedding Words and Show Graph**
+- 2-2. [Word2Vec(Skip-gram)](1-2.Word2Vec) - **Embedding Words and Show Graph**
+  - 요약 -[Word2vec](https://github.com/seppilee/nlp-tutorial/blob/main/W2V.md)
   - Paper - [Distributed Representations of Words and Phrases
     and their Compositionality(2013)](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
   - Colab - [Word2Vec.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-2.Word2Vec/Word2Vec_Skipgram(Softmax).ipynb)
-- 1-3. [FastText(Application Level)](1-3.FastText) - **word embedding**
+- 2-3. [FastText(Application Level)](1-3.FastText) - **word embedding**
+  - 요약 - [FastText](https://github.com/seppilee/nlp-tutorial/blob/main/fasttext.md)
   - Paper - [Bag of Tricks for Efficient Text Classification(2016)](https://arxiv.org/pdf/1607.01759.pdf)
   - Colab - [FastText.ipynb](https://colab.research.google.com/drive/1-bXceLS06-sc1paQV0GKutPg1Qu7t5Fs#scrollTo=y1yDPCjVsO6x)
 
