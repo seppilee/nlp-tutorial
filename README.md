@@ -74,7 +74,8 @@
 - 5-2. [BERT](5-2.BERT) - **Classification Next Sentence & Predict Masked Tokens**
   - Paper - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2018)](https://arxiv.org/abs/1810.04805)
   - Colab - [BERT.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT.ipynb)
-
+- 5.3 [KoBERT]
+  - Colab - [SKT Kobert](https://colab.research.google.com/drive/1lyTSeXO2tfvXbFeu_lqEBJ-EgMOSHHvZ)
 
 ## Dependencies
 
