@@ -8,6 +8,10 @@
 
 ##1 학습 과정
 
+#### 1. NLP 전처리
+
+- Colab - [형태소분석](https://colab.research.google.com/drive/15L7szv7yqYmWT0e2rnhNhwkETh4gy6QC#scrollTo=7Tvsl2qSIxSo)
+
 
 #### 1. 단어수준의 임베딩 모델
 
