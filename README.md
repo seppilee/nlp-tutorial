@@ -76,7 +76,7 @@
   - Colab - [BERT.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT.ipynb)
 - 5.3 [KoBERT]
   - Colab - [SKT Kobert](https://colab.research.google.com/drive/1lyTSeXO2tfvXbFeu_lqEBJ-EgMOSHHvZ)
-
+  - Colab - [네이버영화감성분석](https://colab.research.google.com/drive/1tIf0Ugdqg4qT7gcxia3tL7und64Rv1dP)
 ## Dependencies
 
 - Python 3.5+
