@@ -10,7 +10,7 @@
 #### 1. NLP 전처리
 
 - Colab - [형태소분석](https://colab.research.google.com/drive/15L7szv7yqYmWT0e2rnhNhwkETh4gy6QC#scrollTo=7Tvsl2qSIxSo)
-
+- Colab - [Subword 토큰화](https://colab.research.google.com/drive/1f0E0tzrBkHjEjbw6-ihIzerN6EvcvIv3)
 
 #### 2. 단어수준의 임베딩 모델
 
@@ -70,7 +70,7 @@
 
 - 5-1.  [The Transformer](5-1.Transformer) - **Translate**
   - Paper - [Attention Is All You Need(2017)](https://arxiv.org/abs/1706.03762)
-  - Colab - [Transformer.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-1.Transformer/Transformer.ipynb), [Transformer(Greedy_decoder).ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-1.Transformer/Transformer(Greedy_decoder).ipynb)
+  - Colab - [Transformer.ipynb](https://colab.research.google.com/drive/1f0E0tzrBkHjEjbw6-ihIzerN6EvcvIv3)
 - 5-2. [BERT](5-2.BERT) - **Classification Next Sentence & Predict Masked Tokens**
   - Paper - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2018)](https://arxiv.org/abs/1810.04805)
   - Colab - [BERT.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT.ipynb)
