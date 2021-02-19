@@ -10,7 +10,7 @@
 #### 1. NLP 전처리
 
 - Colab - [형태소분석](https://colab.research.google.com/drive/15L7szv7yqYmWT0e2rnhNhwkETh4gy6QC#scrollTo=7Tvsl2qSIxSo)
-- Colab - [Subword 토큰화](https://colab.research.google.com/drive/1f0E0tzrBkHjEjbw6-ihIzerN6EvcvIv3)
+- Colab - [Subword 토큰화](https://colab.research.google.com/drive/1f7ezUrGNUTRmBIVMRxdUiuxy5ttRuyvm)
 
 #### 2. 단어수준의 임베딩 모델
 
