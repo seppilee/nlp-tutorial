@@ -64,12 +64,12 @@
   - Colab - [Seq2Seq(Attention).ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-2.Seq2Seq(Attention)/Seq2Seq(Attention).ipynb)
 - 4-3. [Bi-LSTM with Attention](4-3.Bi-LSTM(Attention)) - **Binary Sentiment Classification**
   - Colab - [Bi_LSTM(Attention).ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/4-3.Bi-LSTM(Attention)/Bi_LSTM(Attention).ipynb)
-- 4.4 opennmt
+- 4.4 opennmt -  **Translation**
   - Colab - [OpenNMT Pytorch version tutorial](https://colab.research.google.com/drive/1QJdbj4MWTPS5pSWdm8OcZSl6Q75khRPy)
 
 #### 5. 트랜스포머 기반의 언어 모델
 
-- 5-1.  [The Transformer](5-1.Transformer) - **Translate**
+- 5-1.  [The Transformer](5-1.Transformer) - **Translation**
   - Paper - [Attention Is All You Need(2017)](https://arxiv.org/abs/1706.03762)
   - Colab - [Transformer 이해와 실습 ](https://colab.research.google.com/drive/1f7ezUrGNUTRmBIVMRxdUiuxy5ttRuyvm)
 - 5-2. [BERT](5-2.BERT) - **Classification Next Sentence & Predict Masked Tokens**
