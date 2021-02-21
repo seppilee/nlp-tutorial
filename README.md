@@ -51,7 +51,6 @@
 
 
 
-
 #### 4. Attention Mechanism
 
 - 4-1. [Seq2Seq](4-1.Seq2Seq) - **Change Word**
