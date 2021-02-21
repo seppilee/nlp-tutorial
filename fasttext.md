@@ -56,5 +56,3 @@ https://fasttext.cc/
   - Constrain the final model size:
 
 >$ ./fasttext supervised -input train.txt -output model -autotune-validation valid.txt -autotune-modelsize 2M
-```
-
