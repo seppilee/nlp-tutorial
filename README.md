@@ -8,10 +8,10 @@
 
 
 #### 1. NLP 전처리
-
-- Colab - [형태소분석](https://colab.research.google.com/drive/15L7szv7yqYmWT0e2rnhNhwkETh4gy6QC#scrollTo=7Tvsl2qSIxSo)
+- Colab - [NLP분석](https://colab.research.google.com/drive/1Qs3xctULHGC6FhL96cw6VuPn1oJq32g5#scrollTo=8XmWxhAV_D59)
+- Colab - [워드임베](https://colab.research.google.com/drive/15L7szv7yqYmWT0e2rnhNhwkETh4gy6QC#scrollTo=7Tvsl2qSIxSo)
 - Colab - [Subword 토큰화](https://colab.research.google.com/drive/1f7ezUrGNUTRmBIVMRxdUiuxy5ttRuyvm)
-
+- Colab - [정규식](https://colab.research.google.com/drive/11TLqQPdfrzE1kRShjvPBI9smMW9PDI8u)
 #### 2. 단어수준의 임베딩 모델
 
 - 2-1. [NNLM(Neural Network Language Model)](1-1.NNLM) - **Predict Next Word**
