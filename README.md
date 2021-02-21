@@ -24,11 +24,11 @@
   - 요약 -[Word2vec](https://github.com/seppilee/nlp-tutorial/blob/main/W2V.md)
   - Paper - [Distributed Representations of Words and Phrases
     and their Compositionality(2013)](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-  - Colab - [Word2Vec.ipynb](https://colab.research.google.com/drive/1sxTJfYhA5BcgIGZkgHM1acsAhx04oEgN)
+  - Colab - [Word2Vec](https://colab.research.google.com/drive/1sxTJfYhA5BcgIGZkgHM1acsAhx04oEgN)
 - 2-3. [FastText(Application Level)](1-3.FastText) - **word embedding**
   - 요약 - [FastText](https://github.com/seppilee/nlp-tutorial/blob/main/fasttext.md)
   - Paper - [Bag of Tricks for Efficient Text Classification(2016)](https://arxiv.org/pdf/1607.01759.pdf)
-  - Colab - [FastText.ipynb](https://colab.research.google.com/drive/1-bXceLS06-sc1paQV0GKutPg1Qu7t5Fs#scrollTo=y1yDPCjVsO6x)
+  - Colab - [FastText](https://colab.research.google.com/drive/1-bXceLS06-sc1paQV0GKutPg1Qu7t5Fs#scrollTo=y1yDPCjVsO6x)
 
 
 
@@ -71,7 +71,7 @@
 
 - 5-1.  [The Transformer](5-1.Transformer) - **Translate**
   - Paper - [Attention Is All You Need(2017)](https://arxiv.org/abs/1706.03762)
-  - Colab - [Transformer 이해와 ](https://colab.research.google.com/drive/1f7ezUrGNUTRmBIVMRxdUiuxy5ttRuyvm)
+  - Colab - [Transformer 이해와 실습 ](https://colab.research.google.com/drive/1f7ezUrGNUTRmBIVMRxdUiuxy5ttRuyvm)
 - 5-2. [BERT](5-2.BERT) - **Classification Next Sentence & Predict Masked Tokens**
   - Paper - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2018)](https://arxiv.org/abs/1810.04805)
   - Colab - [BERT.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/5-2.BERT/BERT.ipynb)
