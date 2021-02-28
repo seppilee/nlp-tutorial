@@ -35,6 +35,7 @@
 #### 2. CNN(Convolutional Neural Network)
 
 - 2-1. [TextCNN](2-1.TextCNN) - **Binary Sentiment Classification**
+  - 요약 - [TextCNN](https://github.com/seppilee/nlp-tutorial/blob/main/TxtCNN.md)
   - Paper - [Convolutional Neural Networks for Sentence Classification(2014)](http://www.aclweb.org/anthology/D14-1181)
   - [TextCNN.ipynb](https://colab.research.google.com/drive/1w53z6lU2QN8z2Om8S3vfFG_Bt80K5VAz#scrollTo=cV42pNwfqLI4)
 
