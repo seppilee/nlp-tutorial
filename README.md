@@ -7,7 +7,7 @@
 모든 모델은 짧은 코드로 컨셉을 이해하기 위해 알기 쉽게 작성되었습니다. 
 
 
-#### 1. NLP 전처리
+#### 1. NLP intro
 - Colab - [Torch basic_tensor_manipulation](https://colab.research.google.com/drive/1MilKT-6vIA5ZDF4_gB6BhXWBCokXd2W_#scrollTo=UApRY6Le-9Gu)
 - Colab - [NLP분석](https://colab.research.google.com/drive/1Qs3xctULHGC6FhL96cw6VuPn1oJq32g5#scrollTo=8XmWxhAV_D59)
 - Colab - [워드임베딩](https://colab.research.google.com/drive/15L7szv7yqYmWT0e2rnhNhwkETh4gy6QC#scrollTo=7Tvsl2qSIxSo)
