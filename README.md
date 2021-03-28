@@ -10,6 +10,7 @@
 #### 1. NLP intro
 - Colab - [Torch_basic_tensor_manipulation](https://colab.research.google.com/drive/1MilKT-6vIA5ZDF4_gB6BhXWBCokXd2W_#scrollTo=UApRY6Le-9Gu)
 - Colab - [Torch_basic_deeplearning](https://colab.research.google.com/drive/1haMB-pZEp-_tkHw3yjV4uJB2npMsIDEo#scrollTo=c_-URBqY7c92)
+- Colab - [Torch_transfer_learning](https://colab.research.google.com/drive/1JL5hU-tUz4YgI-l8J99-lJ3cGK2TUDn_#scrollTo=IIXXlndxc55j)
 - Colab - [NLP분석](https://colab.research.google.com/drive/1Qs3xctULHGC6FhL96cw6VuPn1oJq32g5#scrollTo=8XmWxhAV_D59)
 - Colab - [워드임베딩](https://colab.research.google.com/drive/15L7szv7yqYmWT0e2rnhNhwkETh4gy6QC#scrollTo=7Tvsl2qSIxSo)
 - Colab - [Subword 토큰화](https://colab.research.google.com/drive/1wKgVQs5K1cewlBlLZSn1JJvCg8Itpqwp#scrollTo=0VAH6Mc-O5El)
