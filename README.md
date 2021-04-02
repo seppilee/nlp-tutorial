@@ -13,7 +13,7 @@
 - Colab - [Torch_image_data_processing](https://colab.research.google.com/drive/1HzoVy3SQ3kO6lK0rfdmDL6R5lRiutesw)
 - Colab - [Torch_transfer_learning](https://colab.research.google.com/drive/1JL5hU-tUz4YgI-l8J99-lJ3cGK2TUDn_#scrollTo=IIXXlndxc55j)
 - Colab - [NLP분석](https://colab.research.google.com/drive/1Qs3xctULHGC6FhL96cw6VuPn1oJq32g5#scrollTo=8XmWxhAV_D59)
-- Colab - [워드임베딩](https://colab.research.google.com/drive/15L7szv7yqYmWT0e2rnhNhwkETh4gy6QC#scrollTo=7Tvsl2qSIxSo)
+- Colab - [워드임베딩](https://colab.research.google.com/drive/1gNNgbB0LpD6zEyazN5XOjpQfJDzQmb6k)
 - Colab - [Subword 토큰화](https://colab.research.google.com/drive/1wKgVQs5K1cewlBlLZSn1JJvCg8Itpqwp#scrollTo=0VAH6Mc-O5El)
 - Colab - [정규식](https://colab.research.google.com/drive/1p-_VIAUhSa1Yr2wW2-cXH8m7YWK_gmmX#scrollTo=GYg0QwtwPM9z)
 
